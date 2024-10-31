@@ -1,1 +1,1 @@
-this is a simple to-do app using coreJs
+this is a simple to-do app using coreJs.
